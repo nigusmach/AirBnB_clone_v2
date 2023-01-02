@@ -194,4 +194,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 # :books: Authors :pen:
 
 [Mustapha Aliyu Galadima](https://github.com/MG-Musty/)
-[Nigus Amare]
+[Nigus Amare]((https://github.com/nigusmach/)
