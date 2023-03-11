@@ -15,4 +15,8 @@ def hello():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     app.run(host="0.0.0.0", port=5000, debug=True)
+=======
+    app.run(host="0.0.0.0", port=5000, debug=None)
+>>>>>>> 9f3160da15e4d03e7cf8fd289f634e58d1fc0eb3
