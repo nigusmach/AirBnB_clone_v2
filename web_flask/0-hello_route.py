@@ -8,15 +8,11 @@ from flask import Flask
 app = Flask("__name__")
 
 
-@app.route('/airbnb-onepage', methods=['GET'])
+@app.route('/airbnb-onepage')
 def hello():
     """Return a given string"""
     return ("Hello HBNB!")
 
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     app.run(host="0.0.0.0", port=5000, debug=True)
-=======
-    app.run(host="0.0.0.0", port=5000, debug=None)
->>>>>>> 9f3160da15e4d03e7cf8fd289f634e58d1fc0eb3
